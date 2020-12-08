@@ -1,0 +1,10 @@
+#myheader {
+    color:red;
+    background-color: lightgray;
+}
+
+.para {
+    position: absolute;
+    /* float: right; */
+    right: 2%;
+}
